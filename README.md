@@ -1,5 +1,6 @@
 # Prep.github.io
-Basic web design, with some css styles and Javascript functions
+
+Mock Interview Questions
 
 
 1.       Tell us about a project you've worked on in the past that you're proud of. What technologies did you use, and what was your role in the project?
